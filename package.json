@@ -1,0 +1,26 @@
+{
+  "name": "webchat-angular-data",
+  "version": "1.0.0",
+  "description": "Loopback Generated Angular Services for Webchat Servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webchat/webchat-angular-data"
+  },
+  "keywords": [
+    "webchat",
+    "angular",
+    "loopback",
+    "data",
+    "model"
+  ],
+  "author": "Rai Butera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webchat/webchat-angular-data/issues"
+  },
+  "homepage": "https://github.com/webchat/webchat-angular-data"
+}
