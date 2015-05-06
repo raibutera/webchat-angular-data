@@ -1,0 +1,10 @@
+{
+  "name": "webchat-angular-data",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Raimondo Butera <rai@rbutera.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/webchat"
+}
